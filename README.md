@@ -2,7 +2,7 @@ Welcome!
 
 Stored in this repository is the code needed to control a motor with the Raspberry Pi and Ryanteck MCB. I have made this free to use for the entire public! That's you ;-)
 
-It accompanies my tutorial here: 
+It accompanies my tutorial here: http://youtu.be/JJXzlCK4vnY
 
 If you have any questions then please do not hesistate to get in touch:
 
